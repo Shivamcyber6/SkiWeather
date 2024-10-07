@@ -11,12 +11,6 @@ A simple and intuitive weather application built using Flutter that fetches real
 - **Location-based Weather**: Option to get weather information based on your current location.
 - **Dynamic Weather Icons**: Displays weather icons and updates based on the weather conditions (sunny, rainy, cloudy, etc.).
 
-## Screenshots
-
-<!-- Add screenshots here showing the UI of your weather app -->
-![Screenshot1](path_to_screenshot_1)
-![Screenshot2](path_to_screenshot_2)
-
 ## Installation
 
 To run this project locally, follow these steps:
